@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**niklaus2019/niklaus2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <div align="center">
 <h3> 👨 Nikolay Khon | 👨‍💻 Software Engineer & Data Engineer | 🌏 S.Korea </h3> 
 </div>
