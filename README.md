@@ -4,7 +4,7 @@
 **niklaus2019/niklaus2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <div align="center">
-<h3> :man: Nikolay Khon | :man_technologist: Software Engineer & Data Engineer | 🌏 S.Korea </h3> 
+<h3> 👨 Nikolay Khon | 👨‍💻 Software Engineer & Data Engineer | 🌏 S.Korea </h3> 
 </div>
 
 Here are some ideas to get you started:
