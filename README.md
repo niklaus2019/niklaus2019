@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # About 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,cs,flutter,javascript,html,mysql,tensorflow,pytorch,docker,dotnet,firebase,spring,maven,visualstudio,vscode,idea&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,cs,javascript,html,css,mysql,py,tensorflow,docker,dotnet,visualstudio,vscode,idea&theme=light)](https://skillicons.dev)
 
 ## My GITHUB STATS
 
