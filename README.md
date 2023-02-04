@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## Tools
 
-[![Tools](https://skillicons.dev/icons?i=docker,visualstudio,vscode,idea,mysql,🐘&theme=light)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=docker,visualstudio,vscode,idea,mysql,postgres&theme=light)](https://skillicons.dev)
 
 <!---
 niklaus2019/niklaus2019 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
