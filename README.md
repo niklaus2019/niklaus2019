@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <img width="50px" src="https://pandas.pydata.org/static/img/pandas_mark.svg"/> 
 <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/128px-Created_with_Matplotlib-logo.svg.png?20150219130408"/>
 <img width="50px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>
-<img width="40px" src="https://feature-engine.trainindata.com/en/latest/_images/FeatureEngine.png"/>
-<img width="80px" src="https://logos-download.com/wp-content/uploads/2021/01/Scikit_Learn_Logo-700x378.png"/>
+<img width="50px" src="https://feature-engine.trainindata.com/en/latest/_images/FeatureEngine.png"/>
+<img width="60px" src="https://logos-download.com/wp-content/uploads/2021/01/Scikit_Learn_Logo-700x378.png"/>
 
 ## Tools
 
