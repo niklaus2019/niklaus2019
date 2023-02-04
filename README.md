@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 
 ## Frameworks and Libraries
 
-[![Frameworks and Libraries](https://skillicons.dev/icons?i=spring,hibernate,dotnet,html,css,docker,tensorflow&theme=light)](https://skillicons.dev)
+[![Frameworks and Libraries](https://skillicons.dev/icons?i=spring,hibernate,dotnet,html,css,tensorflow&theme=light)](https://skillicons.dev)
 <img width="50px" src="https://numpy.org/images/logo.svg"/> 
 <img width="50px" src="https://pandas.pydata.org/static/img/pandas_mark.svg"/> 
 <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/128px-Created_with_Matplotlib-logo.svg.png?20150219130408"/>
 <img width="50px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>
 
-## Frameworks and Libraries
+## Tools
 
-[![Frameworks and Libraries](https://skillicons.dev/icons?i=spring,hibernate,dotnet,html,css,tensorflow,docker,,visualstudio,vscode,idea&theme=light)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=docker,visualstudio,vscode,idea,mysql&theme=light)](https://skillicons.dev)
 
 <!---
 niklaus2019/niklaus2019 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
