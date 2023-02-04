@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 ## Frameworks and Libraries
 
-[![Frameworks and Libraries](https://skillicons.dev/icons?i=spring,hibernate,dotnet,html,css,tensorflow,docker&theme=light)](https://skillicons.dev)
-<img align="left" width="60px" src="https://numpy.org/images/logo.svg"/> 
-<img align="left" width="60px" src="https://pandas.pydata.org/static/img/pandas_white.svg"/> 
-<img align="left" width="60px" src="https://matplotlib.org/_static/images/logo_dark.svg"/>
-<img align="left" width="60px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"/>
+[![Frameworks and Libraries](https://skillicons.dev/icons?i=tensorflow,spring,hibernate,dotnet,html,css,docker&theme=light)](https://skillicons.dev)
+<img width="60px" src="https://numpy.org/images/logo.svg"/> 
+<img width="60px" src="https://pandas.pydata.org/static/img/pandas_white.svg"/> 
+<img width="60px" src="https://matplotlib.org/_static/images/logo_dark.svg"/>
+<img width="60px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"/>
 
 ## Frameworks and Libraries
 
