@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## Frameworks and Libraries
 
 [![Frameworks and Libraries](https://skillicons.dev/icons?i=spring,hibernate,dotnet,html,css,tensorflow,docker&theme=light)](https://skillicons.dev)
-[![Frameworks and Libraries]([https://commons.wikimedia.org/wiki/File:NumPy_logo_2020.svg&theme=light)](https://commons.wikimedia.org/wiki/File:NumPy_logo_2020.svg)
+<img align="right" width="50px" src="https://commons.wikimedia.org/wiki/File:NumPy_logo_2020.svg"/>
 
 
 ## Frameworks and Libraries
