@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 ## Frameworks and Libraries
 
 [![Frameworks and Libraries](https://skillicons.dev/icons?i=spring,hibernate,dotnet,html,css,tensorflow,docker&theme=light)](https://skillicons.dev)
-<img align="left" width="60px" src="https://techscript24.com/wp-content/uploads/2020/10/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png"/>
-<img align="left" width="60px" src="https://skeptric.com/images/pandas.png"/>
-<img align="left" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png"/>
+[![Frameworks and Libraries]([https://commons.wikimedia.org/wiki/File:NumPy_logo_2020.svg&theme=light)](https://commons.wikimedia.org/wiki/File:NumPy_logo_2020.svg)
+
 
 ## Frameworks and Libraries
 
