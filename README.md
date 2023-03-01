@@ -2,14 +2,10 @@
 <h3> 👨 Nikolay Khon | 👨‍💻 Software Engineer & Data Scientist </h3> 
 </div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning AI and Java
 - 👯 I’m looking to collaborate on projects with Big Data
 - 📫 How to reach me: khon_ni@hanmail.net
 
--->
 
 # About 
 ## Languages
@@ -26,7 +22,7 @@ Here are some ideas to get you started:
 <img width="50px" src="https://feature-engine.trainindata.com/en/latest/_images/FeatureEngine.png"/>
 <img width="70px" src="https://logos-download.com/wp-content/uploads/2021/01/Scikit_Learn_Logo-700x378.png"/>
 
-## Tools
+## Tools and DB
 
 [![Tools](https://skillicons.dev/icons?i=docker,visualstudio,vscode,idea,mysql,postgres&theme=light)](https://skillicons.dev)
 
