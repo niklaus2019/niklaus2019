@@ -24,7 +24,7 @@
 
 ## Tools and DB
 
-[![Tools](https://skillicons.dev/icons?i=docker,visualstudio,vscode,idea,mysql,oracledb,postgres&theme=light)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=docker,visualstudio,vscode,idea,mysql,postgres&theme=light)](https://skillicons.dev) [![Oracle](assets/icons/oracle.svg)](https://www.oracle.com)
 
 <!---
 niklaus2019/niklaus2019 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
