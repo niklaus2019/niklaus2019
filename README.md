@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning AI and Java
 - 👯 I’m looking to collaborate on projects with Big Data
-- 📫 How to reach me: khon_ni@hanmail.net
+- 📫 How to reach me: khon_ni@mail.ru
 
 
 # About 
@@ -24,7 +24,7 @@
 
 ## Tools and DB
 
-[![Tools](https://skillicons.dev/icons?i=docker,visualstudio,vscode,idea,mysql,postgres&theme=light)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=docker,visualstudio,vscode,idea,mysql,oracle,postgres&theme=light)](https://skillicons.dev)
 
 <!---
 niklaus2019/niklaus2019 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
